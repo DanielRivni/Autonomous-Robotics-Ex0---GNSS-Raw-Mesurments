@@ -14,3 +14,7 @@ The output will be saved as a pandas Data,CSV file and KML file.
 ### Prerequisites
 
 - Required Python packages: `numpy`, `pandas`, `matplotlib`, `simplekml`, `georinex`, `xarray`, `unlzw3`, `navpy`
+
+
+### Created by
+Daniel Rivni, Ori Elimelech, Nitay Levy
